@@ -11,5 +11,17 @@ div {
 	font-family: georgia;
 	color: dodgerblue;
 	font-size: 30px;
-	letter-spacing: 10px;
+	letter-spacing: 5px;
 }
+
+.red {
+	color: red;
+	font-size: 60px;
+	font-weight: bold;
+	transform: rotate(25deg);
+
+}
+
+
+
+
