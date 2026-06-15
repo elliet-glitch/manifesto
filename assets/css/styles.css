@@ -1,9 +1,9 @@
 /* styles.css */
 
 html {
-background-color: DarkMagenta;
+background-color: darkmagenta;
 	background-image:
-		linear-gradient(DarkMagenta,LightSeaGreen);
+		linear-gradient(darkmagenta,lightseagreen);
 	
 }
 body {
@@ -29,7 +29,7 @@ h2 {
 
 div {
 	font-family: georgia;
-	color: Khaki;
+	color: khaki;
 	font-size: 30px;
 	letter-spacing: 5px;
 	margin: 30px;
